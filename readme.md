@@ -2,6 +2,9 @@
 
 A vibrant and user-friendly website for **Meera's English Medium Pre-Primary School**, designed to provide essential information to parents and showcase the school's events, activities, and values.
 
+## Live Website
+[Visit the live website](https://meerasacademy.com) to explore its features and design.
+
 ## Tech Stack
 - **HTML5** & **CSS3**
 - **Bootstrap 5**
@@ -21,8 +24,6 @@ A vibrant and user-friendly website for **Meera's English Medium Pre-Primary Sch
 - Simple and intuitive navigation.
 
 
-## Live Website
-[Visit the live website](https://meerasacademy.com) to explore its features and design.
 
 <!-- ## Screenshots
 Include screenshots of the website to highlight its design and features. -->
